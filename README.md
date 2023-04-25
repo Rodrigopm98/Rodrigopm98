@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola 👋, soy Rodrigo Peralta
+---
+En el 2022 decidí meterme de lleno en este maravilloso mundo de la programacion🧑🏽‍💻, en el 2022 logré certificarme como programador web full stack, y actualmente sigo capacitando para ser un poco mejor cada día ⚡.
+Te invito a que pases a ver algunos de mis proyectos realizados😄.
+***
+AAh y por cierto aquí te dejo mi Linkedin😉: **https://www.linkedin.com/in/rodrigoperaltam/**
 
 <!--
 **Rodrigopm98/Rodrigopm98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
